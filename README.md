@@ -8,7 +8,7 @@ Customer_Segmentation_Modeling.inpyb is the notebook containing all the code and
 
 Use the package manager pip to install customer-segmentation-modelling.
 
-pip install git+https://github.com/banelengemntu123/customer-segmentation-modelling.git
+pip install git+https://github.com/banelengemntu123/customer-segmentation-modelling.git 
 pip install --upgrade git+https://github.com/banelengemntu123/customer-segmentation-modelling.git
 
 ## Usage
